@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @KnowAashish (Ashish Suri)
+- 👋 Hi, I’m Ashish Suri!
 - 👀 I’m interested in ... RTL Design and Verification, Design For Testability (DFT), PERL Automation and Core Electronics Projects.
-- 🌱 I’m currently learning ... SV,UVM,DFT, AMBA Protocol and RISC-V Processor (RTL Design and Verif.)
-- 💞️ I’m looking to collaborate on ... industrial and/or independant projects under above mentioned topics.
+- 🌱 I’m currently learning ... SV, UVM, DFT, AMBA Protocol and RISC-V Processor (RTL Design and Verification)
+- 💞️ I’m looking to collaborate on ... industrial and independent projects under the abovementioned topics.
 - 📫 How to reach me ... find my socials under bio. Thank you.
 
 <!---
